@@ -15,3 +15,8 @@ Used website: https://broadinstitute.github.io/picard/explain-flags.html
 
 However, when used "aln" code that resulted into bwa file that needed to be converted to sam file. It showed no supplementary reads. This may be due to that "mem" is preferable for longer reads ( > 70 bp) and bwa mem goes a step further and will find alignments where other methods have already given up i.e other codes alow mismatch easily. 
 Further, analysis of the difference between different aligners and which is the best is needed. As well as more samples needed for phylogenic analysis and how chromosomal inversion if common in this specie and the relation to biparental inheritance. 
+
+References:
+1- Blanc-Mathieu, R., Sanchez-Ferandin, S., Eyre-Walker, A., & Piganeau, G. (2013). Organellar inheritance in the green lineage: insights from Ostreococcus tauri. Genome biology and evolution, 5(8), 1503–1511. doi:10.1093/gbe/evt106
+2- https://en.wikipedia.org/wiki/Ostreococcus_tauri
+3- Lelandais, G., Scheiber, I., Paz-Yepes, J., Lozano, J. C., Botebol, H., Pilátová, J., … Lesuisse, E. (2016). Ostreococcus tauri is a new model green alga for studying iron metabolism in eukaryotic phytoplankton. BMC genomics, 17, 319. doi:10.1186/s12864-016-2666-6
